@@ -1,4 +1,5 @@
 Cloud computing is a technology in which you can share your hardware, processing power, network virtually by creating a instance as a service. There are basically three types of services in it:
   1. IaaS: Infrastructure as a Service. Ex: EC2 instance
   2. PaaS: Platform as a Service. Ex: AWS Lambda
+    Platform as a service in which all the infrastructure, administration, network, security is managed by the cloud provider and we can develop or use that platfrom to host our services. For example: we can devlop an application using Paas(AWS Lambda)
   3. Saas: Software as a Service Ex: Word, Google Docs
